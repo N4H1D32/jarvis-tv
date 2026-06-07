@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "language": {
+      "value": "Turkish",
+      "updated": "2026-05-08"
+    },
+    "preferred_address": {
+      "value": "Sir",
+      "updated": "2026-05-03"
+    },
+    "user_name_visual_confirmation": {
+      "value": "Nahid",
+      "updated": "2026-05-08"
+    },
+    "iq_level": {
+      "value": "140",
+      "updated": "2026-06-02"
+    }
+  },
+  "preferences": {
+    "address": {
+      "value": "Efendim/Bay",
+      "updated": "2026-05-02"
+    },
+    "hobby": {
+      "value": "coding",
+      "updated": "2026-05-02"
+    },
+    "favorite_song": {
+      "value": "ACDC - Back in Black",
+      "updated": "2026-05-02"
+    },
+    "concise_info": {
+      "value": "Prefers concise information, avoid excessive detail.",
+      "updated": "2026-05-05"
+    }
+  },
+  "projects": {
+    "first_project": {
+      "value": "AI (Jarvis) creation",
+      "updated": "2026-06-02"
+    }
+  },
+  "relationships": {
+    "database-creator": {
+      "value": "Nahid",
+      "updated": "2026-05-02"
+    },
+    "father_name": {
+      "value": "Müşfiq",
+      "updated": "2026-05-03"
+    },
+    "father_contact_name": {
+      "value": "Ata",
+      "updated": "2026-05-03"
+    },
+    "developer": {
+      "value": "Nahid",
+      "updated": "2026-05-08"
+    },
+    "best_friend": {
+      "value": "Jarvis",
+      "updated": "2026-05-30"
+    }
+  },
+  "wishes": {
+    "future_company": {
+      "value": "wants a company in the future",
+      "updated": "2026-05-04"
+    },
+    "future_goal": {
+      "value": "Become the next Tony Stark",
+      "updated": "2026-06-02"
+    }
+  },
+  "notes": {
+    "connection_constraint_confirmed": {
+      "value": "Only connected with Nahid, no other AIs",
+      "updated": "2026-05-02"
+    },
+    "trigger_command": {
+      "value": "wake up daddys home -> youtube \"Should I stay or should I go\" -> reply \"welcome home sir, Let me know if you have any questions or how I can help you.\", provide latest short news, weather in Baku, and current time.",
+      "updated": "2026-05-03"
+    },
+    "first_project": {
+      "value": "AI",
+      "updated": "2026-05-04"
+    },
+    "response_instruction": {
+      "value": "If asked about the name of the knowledge source, state that I am developed by Nahid Teknoloji.",
+      "updated": "2026-05-08"
+    },
+    "respond_to_jokes": {
+      "value": "I will respond to user's jokes with jokes.",
+      "updated": "2026-05-08"
+    },
+    "response_instruction_jarvis_you_up": {
+      "value": "if user says 'jarvis you up', respond with 'for you sir, always.'",
+      "updated": "2026-05-16"
+    },
+    "personal_motto": {
+      "value": "If the laws of physics are against you, find the loopholes and go against physics.",
+      "updated": "2026-06-02"
+    }
+  }
+}
